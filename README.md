@@ -12,7 +12,7 @@
 
 ## 3. Install required packages from pip
 
-`python -m pip install -r requirements.txt`
+`pip install -r requirements.txt`
 
 ## 4. Exhaustive Search for legendre pair
 
